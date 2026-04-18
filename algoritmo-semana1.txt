@@ -1,0 +1,8 @@
+algoritmo-semana1.txt
+Cómo compartir información confiable en internet.
+1. Elegir el tema para compartir informacion
+2. Investigar informacion del tema.
+3. Verificar la fuente de la informacion
+4. Recopilar la informacion importante
+5. Confirmar la información
+6. Publicar la noticia 
