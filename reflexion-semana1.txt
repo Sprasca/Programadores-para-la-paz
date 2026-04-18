@@ -1,0 +1,4 @@
+reflexion-semana1.txt
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+Respuesta: Todos estos conceptos son fundamentales para entender el funcionamiento del arte de la programacion, conocer como funciona el mundo del internet y al mismo tiempo aplicar buenas practicas en el internet, redes sociales y emprendimientos.
+Tambien funcionan para entrenar habilidades digitales frecuentemente utilizadas en el mundo digital.
